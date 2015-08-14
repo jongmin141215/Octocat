@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words
+Git clone <repo> copies <repo> to the current directory. 
+The copied <repo> contains all the commits that previously made.  
